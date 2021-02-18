@@ -6,8 +6,6 @@
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
-      <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
 
       <header class="page-header">
 
@@ -160,16 +158,40 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Capstone Project</h2>
         </header>
 
-        {% for association in site.data.associations %}
+        <!-- {% for association in site.data.associations %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
           <p class="resume-item-copy">{{ association.summary }}</p>
         </div>
-        {% endfor %}
+        {% endfor %} -->
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name"><a href="https://leadsigma.com">Lead Sigma</a></h3>
+          <h4 class="resume-item-details" itemprop="description">Tech Stack</h4>
+          <ul class="resume-item-list">
+            <li>Ruby on Rails</li>
+            <li>React</li>
+            <li>Python</li>
+            <li>AWS Lambda</li>
+            <li>AWS SNS</li>
+            <li>AWS SQS</li>
+            <li>SalesForce</li>
+            <li>Jira</li>
+          </ul>
+          <br />
+          <h4 class="resume-item-details" itemprop="description">Contributions</h4>
+          <ul class="resume-item-list">
+            <li>AWS Lambda Function</li>
+            <li>SalesForce Integration</li>
+            <li>Frontend and Backend Testing</li>
+            <li>In Charge of Meeting Notes</li>
+            <li>Sales Activity Service</li>
+            <li>Frontend User Interface</li>
+          </ul>
+        </div>
 
       </section>
       <!-- end Associations -->
@@ -231,10 +253,10 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <footer class="page-footer">
+      <!-- <footer class="page-footer">
         <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
         <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
+      </footer> -->
 
     </div>
 

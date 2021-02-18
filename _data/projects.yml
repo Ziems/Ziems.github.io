@@ -1,16 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Security Vulnerability Detection Using Natural Language Processing--IEEE InfoCom
+  role: Primary Researcher
+  duration: March, 2019 &mdash; January, 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Developing and researching datasets and neural network architectures that detect security vulnerabilities in software code. Presented at Security and Software Engineering Research Conference(S2ERC) with Dr. Shaoen Wu as my research advisor. Funded by Lockheed Martin and Cisco.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Parathyroid Tumor Detection with Machine Learning
+  role: Primary Researcher
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  duration: February, 2020 &mdash; Present
+  description: Developing and researched datasets and neural network architectures that detect primary hyperparathyroidism. Data collected from Norman Parathyroid Group. Pending approval to be used on 8 million patients annually.
