@@ -11,4 +11,9 @@
   role: Primary Researcher
   # url: "#"
   duration: February, 2020 &mdash; Present
-  description: Developing and researched datasets and neural network architectures that detect primary hyperparathyroidism. Data collected from Norman Parathyroid Group. Pending approval to be used on 8 million patients annually.
+  description: Developing and researching datasets and neural network architectures that detect primary hyperparathyroidism. Data collected from Norman Parathyroid Group. Pending approval to be used on 8 million patients annually.
+
+- project: Test Case Generation Using Natural Language Processing
+  role: Primary Researcher
+  duration: January, 2021 &mdash; Present
+  description: Developing and researching neural network architectures that generate test cases for vulnerability testing. Funded by United States Air Force.
