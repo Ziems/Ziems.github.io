@@ -1,11 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Security Vulnerability Detection Using Natural Language Processing--IEEE InfoCom
+- project: Security Vulnerability Detection Using Transformers -- IEEE INFOCOM 2021
   role: Primary Researcher
   duration: March, 2019 &mdash; January, 2021
   # url: "#"
-  description: Developing and researching datasets and neural network architectures that detect security vulnerabilities in software code. Presented at Security and Software Engineering Research Conference(S2ERC) with Dr. Shaoen Wu as my research advisor. Funded by Lockheed Martin and Cisco.
+  description: Developing and researching datasets and neural network architectures that detect security vulnerabilities in software code using NLP. Presented at Security and Software Engineering Research Conference(S2ERC) with Dr. Shaoen Wu as my research advisor. Funded by Lockheed Martin and Cisco. Accepted into IEEE INFOCOM 2021.
 
 - project: Parathyroid Tumor Detection with Machine Learning
   role: Primary Researcher
@@ -13,7 +13,7 @@
   duration: February, 2020 &mdash; Present
   description: Developing and researching datasets and neural network architectures that detect primary hyperparathyroidism. Data collected from Norman Parathyroid Group. Pending approval to be used on 8 million patients annually.
 
-- project: Test Case Generation Using Natural Language Processing
+- project: Test Case Generation Using Transformers
   role: Primary Researcher
   duration: January, 2021 &mdash; Present
-  description: Developing and researching neural network architectures that generate test cases for vulnerability testing. Funded by United States Air Force.
+  description: Developing and researching neural network architectures for NLP that generate test cases for vulnerability testing. Funded by United States Air Force.
